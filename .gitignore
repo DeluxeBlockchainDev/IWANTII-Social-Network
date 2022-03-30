@@ -1,0 +1,6 @@
+/countdown-admin/node_modules
+/countdown-front/node_modules
+/countdown-backend/node_modules
+/countdown-admin/build
+/countdown-front/package-lock.json
+/countdown-backend/package-lock.json
